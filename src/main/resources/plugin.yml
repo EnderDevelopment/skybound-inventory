@@ -1,0 +1,10 @@
+name: SkyInventoryPlugin
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A plugin that creates a blue inventory with a sky-themed design.
+api-version: "1.21"
+commands:
+  skyinventory:
+    description: Opens a sky-themed inventory.
+    usage: /skyinventory
